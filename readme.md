@@ -30,7 +30,7 @@ The dataset is about motor vehicles sorted by every type, age, and class that ha
 
 
 ## License
-GPL-3.0 © Mike Bostock, Titus Wormer.
+GPL-3.0 © Mike Bostock, Titus Wormer, Wesley Cheng.
 
 [cover]: preview.png
 
