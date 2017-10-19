@@ -34,4 +34,4 @@ GPL-3.0 © Mike Bostock, Titus Wormer.
 
 [cover]: preview.png
 
-[url]: https://github.com/wesleyc94/fe3-assessment-3
+[url]: https://wesleyc94.github.io/fe3-assessment-3/
