@@ -1,6 +1,8 @@
 # Assessment 3
 Multiple interactive charts on the same page.
 
+[![][cover]][url]
+
 ## Background
 In this assessment we have to add interactivity to the visualisations. The data should be able to be explored through more than one visualisation. Before i started to code and working with the data I was first thinking about which data graph would be apropiate with the dataset I was gonna use. I've made some small sketches thinking about how I was gonna represent the data in a graph and also what kind of a graph. I've thought about creating a visualisation in a Bubble Chart, Stacked Bar Chart, Pie Chart and a Bar Chart. The last chart was appropiate for displaying the data in the chart. I was using variables years and number and it was helpful to get a clear insight on the differences yearly. The question: "How much vehicles are there in total yearly" could be answered here.
 
@@ -30,5 +32,6 @@ The dataset is about motor vehicles sorted by every type, age, and class that ha
 ## License
 GPL-3.0 © Mike Bostock, Titus Wormer.
 
+[cover]: preview.png
 
 [url]: https://github.com/wesleyc94/fe3-assessment-3
